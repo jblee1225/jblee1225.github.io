@@ -33,11 +33,6 @@ nav_order: 3
 
 <div style="margin-top: 4rem"></div>
 
-## Under Review / In Preparation
-
-- KIM, M., LEE, K., AN, L., **LEE, J.**, & LEE, Y. Probabilistic Prediction of Correlated Cable Tension Forces using Multi-Output Gaussian Process Regression. _Smart Structures and Systems_, under review.
-- **LEE, J.**, LEE, Y., PARK, C., CALMON, P., MIORELLI, R., SKARLATOS, A., KYRGIAZOLU, A., & LEE, J. Flaw Characterization in Steam Generator Tubes Under Deposit Interference Using Eddy Current Testing. In preparation.
-
 ## Patents & Software
 
 - CHOI, W., JI, B., PARK, J., SEUNG, H., HA, J., & **LEE, J.** (2023). 디스플레이 패널 고속 검사 방법 (High-Speed Inspection Method for Display Panels). Patent 10-2023-0151049; PCT WO 2025/095654 A1.
