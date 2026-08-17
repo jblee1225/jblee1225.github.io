@@ -1,0 +1,30 @@
+/******************************************************************************
+ * Site-specific styles for jblee1225.github.io
+ *
+ * This file is the place for your own CSS tweaks. It is loaded last (see
+ * assets/css/main.scss), so anything here wins over the theme defaults.
+ * Do NOT create _sass/_themes.scss or _sass/_variables.scss locally — those
+ * names belong to the theme and a local copy would replace it entirely.
+ *
+ * Handy variables you can override here, e.g. inside a selector or :root:
+ *   --global-theme-color      link / accent colour
+ *   --global-text-color       body text
+ *   --global-bg-color         page background
+ * Both light and dark mode read these, so set them under
+ *   html[data-theme="light"] { ... }  and  html[data-theme="dark"] { ... }
+ ******************************************************************************/
+
+// Profile photo: the theme gives it the full column width on phones, which
+// makes the portrait dominate the first screen. Shrink and centre it instead.
+@media (max-width: 575.98px) {
+  .profile {
+    float: none !important;
+    width: 58%;
+    margin: 0 auto 1.25rem auto;
+    text-align: center;
+
+    .more-info {
+      text-align: center;
+    }
+  }
+}
