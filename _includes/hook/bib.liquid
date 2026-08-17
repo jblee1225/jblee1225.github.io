@@ -1,0 +1,19 @@
+{%- comment -%}
+  Local hook (runs from the theme's bib layout, after it composes `entrytype`).
+
+  Invited talks and seminars are stored as @misc entries with the venue in
+  `howpublished`. The theme only renders a venue for article/proceedings/thesis
+  types, so build one here — without the "In " prefix that proceedings get,
+  which reads wrong for a seminar. Re-append `location` and `additional_info`
+  because overwriting `entrytype` drops what the layout already added.
+{%- endcomment -%}
+
+{% if entry.type == 'misc' and entry.howpublished %}
+  {% capture entrytype %}<em>{{ entry.howpublished }}</em>{% endcapture %}
+  {% if entry.location %}
+    {% capture entrytype %}{{ entrytype }}, {{ entry.location }}{% endcapture %}
+  {% endif %}
+  {% if entry.additional_info %}
+    {% capture entrytype %}{{ entrytype }}{{ entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
+  {% endif %}
+{% endif %}

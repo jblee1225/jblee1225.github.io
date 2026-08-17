@@ -1,9 +1,6 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+# Optional per-venue styling for the badge shown next to each publication.
+# Add an entry keyed by the `abbr` used in the .bib files, e.g.
+#
+# "RESS":
+#   url: https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety
+#   color: "#00369f"

@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: journal papers, conference papers, patents, and software. an asterisk (*) denotes a corresponding author.
+description: journal papers, patents, and software. an asterisk (*) denotes a corresponding author.
 nav: true
 nav_order: 3
 ---
@@ -17,17 +17,7 @@ nav_order: 3
 
 <div class="publications">
 
-{% bibliography --query @article %}
-
-</div>
-
-<div style="margin-top: 4rem"></div>
-
-## Conference Papers (International)
-
-<div class="publications">
-
-{% bibliography --query @inproceedings %}
+{% bibliography %}
 
 </div>
 

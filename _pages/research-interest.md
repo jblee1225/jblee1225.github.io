@@ -4,7 +4,7 @@ permalink: /research-interest/
 title: research interest
 description: "main research topic: uncertainty quantification (UQ)"
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 My research is built around **Uncertainty Quantification (UQ)** — understanding, modeling, and managing the uncertainties inherent in measurements, models, and predictions for the safety assessment of engineered systems.
