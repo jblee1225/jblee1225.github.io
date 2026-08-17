@@ -45,7 +45,7 @@ latest_posts:
 
 #### Honors & Awards
 
-- Commendation from the President of KRISS (2026.05) — meritorious service for metrology advancement
+- <a href="/assets/awards/award-2026-05-kriss-president.jpg" target="_blank" rel="noopener">Commendation from the President of KRISS (2026.05) — meritorious service for metrology advancement</a>
 - <a href="/assets/awards/award-2025-11-coseik.pdf" target="_blank" rel="noopener">Excellent Paper Award, Computational Structural Engineering Symposium (2025.11)</a>
 - <a href="/assets/awards/award-2025-08-ust.pdf" target="_blank" rel="noopener">Best Poster Award, 4th UST-KRISS School Conference (2025.08)</a>
 - <a href="/assets/awards/award-2025-08-shibata.pdf" target="_blank" rel="noopener">HEKI SHIBATA Early Career Award, SMiRT-28 (2025.08)</a>
