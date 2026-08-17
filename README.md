@@ -9,7 +9,6 @@ Built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com
 | What | Where |
 | --- | --- |
 | Home / bio / awards | `_pages/about.md` |
-| Members | `_pages/members.md` |
 | Research projects | `_pages/research-projects.md` |
 | Publications (BibTeX) | `_bibliography/papers.bib` |
 | Research interest | `_pages/research-interest.md` |

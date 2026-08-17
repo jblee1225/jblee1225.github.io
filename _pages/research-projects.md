@@ -4,7 +4,7 @@ permalink: /research-projects/
 title: research projects
 description: funded research projects led as the Principal Investigator.
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 #### Project 4 — Uncertainty-Aware Embedded AI for Autonomous Intelligent NDT Robots
@@ -14,6 +14,12 @@ nav_order: 3
 - **Funding:** National Research Foundation of Korea (NRF) — Outstanding Young Researcher Program (Type B)
 - **Budget:** 600 million KRW (direct costs)
 - **Duration:** 5 years (2026.03–2031.02)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 1rem 0 2rem 0;">
+  <img src="/assets/img/projects/project-2026-1.png" alt="Uncertainty-aware embedded AI concept" style="max-width: 32%; height: auto;">
+  <img src="/assets/img/projects/project-2026-2.png" alt="Autonomous intelligent NDT robot" style="max-width: 32%; height: auto;">
+  <img src="/assets/img/projects/project-2026-3.png" alt="Embedded AI framework" style="max-width: 32%; height: auto;">
+</div>
 
 ---
 
@@ -25,6 +31,10 @@ nav_order: 3
 - **Budget:** 3,725 million KRW (direct costs)
 - **Duration:** 5 years (2025.01–2029.12)
 
+<div style="display: flex; justify-content: center; margin: 1rem 0 2rem 0;">
+  <img src="/assets/img/projects/project-2025.png" alt="Digital twin-based infrastructure performance estimation" style="max-width: 70%; height: auto;">
+</div>
+
 ---
 
 #### Project 2 — Virtual Sensor Systems for Infrastructure Using Deep Learning and Digital Twins
@@ -35,6 +45,10 @@ nav_order: 3
 - **Budget:** 100 million KRW (direct costs)
 - **Duration:** 3 years (2023.01–2024.12; 2026.01–2027.12)
 
+<div style="display: flex; justify-content: center; margin: 1rem 0 2rem 0;">
+  <img src="/assets/img/projects/project-2023.png" alt="Virtual sensor system based on deep learning and digital twins" style="max-width: 70%; height: auto;">
+</div>
+
 ---
 
 #### Project 1 — Lifespan Prediction of Infrastructure via Deep Reinforcement Learning-Based Digital Twin Updates
@@ -44,3 +58,7 @@ nav_order: 3
 - **Funding:** National Research Foundation of Korea (NRF) — Sejong Science Fellowship
 - **Budget:** 564 million KRW (including indirect costs)
 - **Duration:** 5 years (2021.03–2026.02)
+
+<div style="display: flex; justify-content: center; margin: 1rem 0 2rem 0;">
+  <img src="/assets/img/projects/project-2021.png" alt="Deep reinforcement learning-based digital twin update" style="max-width: 70%; height: auto;">
+</div>
