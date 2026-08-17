@@ -9,8 +9,15 @@ nav_order: 5
 
 ## 2026
 
-- **Emerging Scientist Workshop 2026 (ESW2026)**, May 2026
+- **JSNDI Fall Conference 2026**, KSNT–JSNDI International Session, Osaka International Convention Center, Osaka, Japan, October 2026 _(upcoming)_
+  Invited by the Japanese Society for Non-Destructive Inspection (JSNDI)
+  _Reliable Guided-Wave-Based Defect Localization under Limited Field Data with Out-of-Distribution-Aware Prediction_
+
+- **<a href="https://www.kriss.re.kr/gallery.es?mid=a10504000000&bid=0028&list_no=6512&act=view" target="_blank" rel="noopener">Emerging Scientist Workshop 2026 (ESW2026)</a>**, Jeju, Korea, May 2026
+  Hosted by KRISS, NIM (China) and NMIJ (Japan)
   _Toward Autonomous Intelligent Measurement_
+
+<img src="/assets/img/talks/esw2026-talk.jpg" alt="Invited talk at the Emerging Scientist Workshop 2026, Jeju" style="display: block; margin: 1rem auto 2rem auto; max-width: 70%; height: auto;">
 
 ## 2025
 

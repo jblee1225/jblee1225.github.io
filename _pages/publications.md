@@ -37,7 +37,6 @@ nav_order: 3
 
 - KIM, M., LEE, K., AN, L., **LEE, J.**, & LEE, Y. Probabilistic Prediction of Correlated Cable Tension Forces using Multi-Output Gaussian Process Regression. _Smart Structures and Systems_, under review.
 - **LEE, J.**, LEE, Y., PARK, C., CALMON, P., MIORELLI, R., SKARLATOS, A., KYRGIAZOLU, A., & LEE, J. Flaw Characterization in Steam Generator Tubes Under Deposit Interference Using Eddy Current Testing. In preparation.
-- JEON, M., FISHER, C., GUYON, R., PARK, C., CALMON, P., & **LEE, J.** ViT-Based Class-Weighted Knowledge Distillation for Real-Time Defect Classification. In preparation.
 
 ## Patents & Software
 
