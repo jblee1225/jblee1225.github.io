@@ -2,7 +2,7 @@
 layout: page
 permalink: /research-interest/
 title: research interest
-description: "main research topic: uncertainty quantification (UQ)"
+description: 관심 연구 주제
 nav: true
 nav_order: 5
 ---

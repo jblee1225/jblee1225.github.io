@@ -2,6 +2,7 @@
 layout: page
 permalink: /press/
 title: press
+description: 언론 보도
 nav: true
 nav_order: 6
 ---

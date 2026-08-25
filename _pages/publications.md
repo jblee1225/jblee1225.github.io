@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: journal papers, patents, and software. an asterisk (*) denotes a corresponding author.
+description: 게재 논문, 특허 등
 nav: true
 nav_order: 3
 ---
@@ -14,6 +14,8 @@ nav_order: 3
 {% include bib_search.liquid %}
 
 ## Journal Papers
+
+<p class="section-note">An asterisk (*) denotes the corresponding author.</p>
 
 <div class="publications">
 

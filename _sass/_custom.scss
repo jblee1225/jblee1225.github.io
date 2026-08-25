@@ -101,3 +101,11 @@
   font-size: 0.78rem;
   color: var(--global-text-color-light);
 }
+
+// Small muted note under a section heading (e.g. the corresponding-author legend).
+.section-note {
+  font-size: 0.85rem;
+  color: var(--global-text-color-light);
+  margin-top: -0.35rem;
+  margin-bottom: 1.25rem;
+}

@@ -2,7 +2,7 @@
 layout: page
 permalink: /research-projects/
 title: research projects
-description: funded research projects led as the Principal Investigator.
+description: 연구책임자 수행 연구 과제
 nav: true
 nav_order: 2
 ---

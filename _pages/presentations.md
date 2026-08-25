@@ -2,7 +2,7 @@
 layout: page
 permalink: /presentations/
 title: presentations
-description: invited talks and conference presentations, in reverse chronological order. entries carrying an <strong>Invited</strong> badge were given by invitation; the badge on the left shows the venue.
+description: 국내외 초청 발표, 국제학술대회 등
 nav: true
 nav_order: 4
 ---
