@@ -3,7 +3,7 @@ layout: page
 permalink: /press/
 title: press
 description: media coverage of our research and activities.
-nav: false
+nav: true
 nav_order: 6
 ---
 
@@ -25,6 +25,7 @@ nav_order: 6
     <p class="press-outlets">
       <span class="press-outlets-label">보도 매체</span>
       {% for outlet in item.outlets %}<span class="press-outlet">{{ outlet }}</span>{% endfor %}
+      {% if item.outlets_note %}<span class="press-outlets-note">{{ item.outlets_note }}</span>{% endif %}
     </p>
   {% endif %}
 </article>
