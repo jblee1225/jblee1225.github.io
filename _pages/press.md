@@ -16,10 +16,12 @@ nav_order: 6
 <article class="press-item">
   <h5 class="press-title">{{ item.title }}</h5>
   <p class="press-date">{{ item.date | date: "%Y.%m.%d" }}</p>
-  {% if item.image %}
-    <img class="press-image" src="{{ '/assets/img/press/' | append: item.image | relative_url }}" alt="{{ item.title | escape }}">
-    {% if item.caption %}<p class="press-caption">{{ item.caption }}</p>{% endif %}
-  {% endif %}
+  {% for photo in item.images %}
+    <figure class="press-figure">
+      <img class="press-image" src="{{ '/assets/img/press/' | append: photo.file | relative_url }}" alt="{{ photo.caption | default: item.title | escape }}">
+      {% if photo.caption %}<figcaption class="press-caption">{{ photo.caption }}</figcaption>{% endif %}
+    </figure>
+  {% endfor %}
   {% if item.summary %}<div class="press-summary">{{ item.summary | markdownify }}</div>{% endif %}
   {% if item.outlets %}
     <p class="press-outlets">

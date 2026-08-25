@@ -51,6 +51,10 @@
     margin-bottom: 1rem;
   }
 
+  .press-figure {
+    margin: 0 0 1rem 0;
+  }
+
   .press-image {
     display: block;
     margin: 0 auto 0.5rem auto;
@@ -63,7 +67,7 @@
     font-size: 0.8rem;
     color: var(--global-text-color-light);
     text-align: center;
-    margin-bottom: 1rem;
+    margin-bottom: 0;
   }
 
   .press-summary p:last-child {
