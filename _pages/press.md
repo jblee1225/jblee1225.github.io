@@ -2,7 +2,6 @@
 layout: page
 permalink: /press/
 title: press
-description: media coverage of our research and activities.
 nav: true
 nav_order: 6
 ---
