@@ -1,11 +1,20 @@
 {%- comment -%}
-  Local hook (runs from the theme's bib layout, after it composes `entrytype`).
+  Local hook (runs from the theme's bib layout, after it composes `entrytype`
+  and before it joins that with the date into the `periodical` line).
 
-  Invited talks and seminars are stored as @misc entries with the venue in
-  `howpublished`. The theme only renders a venue for article/proceedings/thesis
-  types, so build one here — without the "In " prefix that proceedings get,
-  which reads wrong for a seminar. Re-append `location` and `additional_info`
-  because overwriting `entrytype` drops what the layout already added.
+  1. Invited talks and seminars are stored as @misc entries with the venue in
+     `howpublished`. The theme only renders a venue for article/proceedings/
+     thesis types, so build one here — without the "In " prefix that
+     proceedings get, which reads wrong for a seminar. Re-append `location`
+     and `additional_info`, because overwriting `entrytype` drops what the
+     layout already added.
+
+  2. `additional_info` is passed through `markdownify`, which returns the text
+     wrapped in a paragraph and followed by a newline. Stripping the tags
+     leaves that newline at the end of `entrytype`, and the layout then writes
+     ", <date>" straight after it — rendering as "text , Aug 2026" with a space
+     before the comma. Trim it. This applies to every entry type, so journal
+     entries carrying a "(Top n% …)" note are fixed too.
 {%- endcomment -%}
 
 {% if entry.type == 'misc' and entry.howpublished %}
@@ -17,3 +26,5 @@
     {% capture entrytype %}{{ entrytype }}{{ entry.additional_info | markdownify | remove: '<p>' | remove: '</p>' }}{% endcapture %}
   {% endif %}
 {% endif %}
+
+{% assign entrytype = entrytype | strip %}
