@@ -17,12 +17,18 @@
   images:
     - file: press-2026-08-seismic-priority-lab.jpg
       caption: "연구팀이 축소 구조물에 대한 가진 실험을 수행하고 있다"
+    - file: press-2026-08-seismic-priority-mbc.jpg
+      caption: "MBC 뉴스투데이 보도 영상 캡처"
     - file: press-2026-08-seismic-priority-ytn.jpg
       caption: "YTN 사이언스 투데이 보도 영상 캡처"
+    - file: press-2026-08-seismic-priority-newspaper.jpg
+      caption: "중도일보 2026년 8월 27일자 지면 보도"
   outlets:
+    - MBC
     - YTN 사이언스투데이
     - 연합뉴스
     - 서울경제
+    - 중도일보
     - 표준연
   outlets_note: 외 다수
   summary: |
