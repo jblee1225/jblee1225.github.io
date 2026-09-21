@@ -58,3 +58,34 @@ latest_posts:
 - <a href="/assets/awards/award-2013-11-ulsan-invention.pdf" target="_blank" rel="noopener">Excellence Award, Ulsan Invention Contest (2013.11)</a>
 - <a href="/assets/awards/award-2013-03-kats.jpg" target="_blank" rel="noopener">Excellence Award, App Development Contest for Technical Standards (2013.03)</a>
 - Full Scholarship (2011.03–2015.02) & Excellence Entrance Award (2011.03), UNIST
+
+#### Academic Service
+
+**Session Chair**
+
+- **IABSE Congress Incheon 2026**, Incheon, Korea (2026.09)
+  - \[G07-1\] Advanced structural materials: High-performance concrete including UHPC
+  - \[G05-8\] Structural health monitoring, operation, and maintenance: Data-driven SHM and response prediction
+  - \[G02-3\] Disaster-resilient and risk mitigation: Structural reliability analysis
+- **12th European Workshop on Structural Health Monitoring (EWSHM 2026)**, Toulouse, France (2026.07)
+  - Artificial Intelligence — Deep Learning 1, co-chaired with Clément Fisher (CEA-List)
+  - Artificial Intelligence — SHM Applications, co-chaired with Rachid El Guerjouma (Le Mans Université)
+- **APSSRA 2024**, Ulsan, Korea (2024.09)
+  - OS01: Artificial Intelligence (AI)-Based Safety Assessment of Civil Infrastructure Systems
+
+**Awards Jury**
+
+- Best Young Engineer Paper Awards, IABSE Congress Incheon 2026 (2026.09)
+
+**Peer Review**
+
+- <a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence" target="_blank" rel="noopener">Engineering Applications of Artificial Intelligence</a>
+- <a href="https://www.sciencedirect.com/journal/engineering-structures" target="_blank" rel="noopener">Engineering Structures</a>
+- <a href="https://link.springer.com/journal/40069" target="_blank" rel="noopener">International Journal of Concrete Structures and Materials</a>
+- <a href="https://link.springer.com/journal/12205" target="_blank" rel="noopener">KSCE Journal of Civil Engineering</a>
+- <a href="https://www.sciencedirect.com/journal/probabilistic-engineering-mechanics" target="_blank" rel="noopener">Probabilistic Engineering Mechanics</a>
+- <a href="https://www.nature.com/srep/" target="_blank" rel="noopener">Scientific Reports</a>
+- <a href="https://www.sciencedirect.com/journal/structural-safety" target="_blank" rel="noopener">Structural Safety</a>
+- <a href="https://www.sciencedirect.com/journal/structures" target="_blank" rel="noopener">Structures</a>
+
+Verified review record on <a href="https://orcid.org/0000-0002-6197-8104" target="_blank" rel="noopener">ORCID</a>.
