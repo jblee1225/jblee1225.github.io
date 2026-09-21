@@ -68,14 +68,14 @@ latest_posts:
   - \[G05-8\] Structural health monitoring, operation, and maintenance: Data-driven SHM and response prediction
   - \[G02-3\] Disaster-resilient and risk mitigation: Structural reliability analysis
 - **12th European Workshop on Structural Health Monitoring (EWSHM 2026)**, Toulouse, France (2026.07)
-  - Artificial Intelligence — Deep Learning 1, co-chaired with Clément Fisher (CEA-List)
-  - Artificial Intelligence — SHM Applications, co-chaired with Rachid El Guerjouma (Le Mans Université)
+  - <a href="/assets/img/service/ewshm2026-chair-fisher.jpg" target="_blank" rel="noopener">Artificial Intelligence — Deep Learning 1, co-chaired with Clément Fisher (CEA-List)</a>
+  - <a href="/assets/img/service/ewshm2026-chair-elguerjouma.jpg" target="_blank" rel="noopener">Artificial Intelligence — SHM Applications, co-chaired with Rachid El Guerjouma (Le Mans Université)</a>
 - **APSSRA 2024**, Ulsan, Korea (2024.09)
   - OS01: Artificial Intelligence (AI)-Based Safety Assessment of Civil Infrastructure Systems
 
 **Awards Jury**
 
-- Best Young Engineer Paper Awards, IABSE Congress Incheon 2026 (2026.09)
+- <a href="/assets/img/service/iabse2026-awards-jury.jpg" target="_blank" rel="noopener">Best Young Engineer Paper Awards, IABSE Congress Incheon 2026 (2026.09)</a>
 
 **Peer Review**
 
