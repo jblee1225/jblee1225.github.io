@@ -45,7 +45,7 @@ latest_posts:
 
 #### Honors & Awards
 
-- Commendation from the President of KRISS (2026.05) — meritorious service for metrology advancement <a class="evidence-link" href="/assets/awards/award-2026-05-kriss-president.jpg" target="_blank" rel="noopener">photo</a>
+- Commendation from the President of KRISS (2026.05) — AI-based nondestructive measurement technology, dissemination of reference standards, and international cooperation <a class="evidence-link" href="/assets/awards/award-2026-05-kriss-president.jpg" target="_blank" rel="noopener">certificate</a>
 - Excellent Paper Award, Computational Structural Engineering Symposium (2025.11) <a class="evidence-link" href="/assets/awards/award-2025-11-coseik.pdf" target="_blank" rel="noopener">certificate</a>
 - Best Paper Winner, IABSE Young Engineers Colloquium (2024.01) <a class="evidence-link" href="/assets/awards/award-2024-01-iabse-yec.pdf" target="_blank" rel="noopener">certificate</a>
 - Excellent Paper Award, Korean Society of Civil Engineers (2021.10) <a class="evidence-link" href="/assets/awards/award-2021-10-ksce.jpg" target="_blank" rel="noopener">certificate</a>
