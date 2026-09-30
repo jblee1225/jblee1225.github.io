@@ -22,25 +22,25 @@ Structures are measured more thoroughly every year — fixed sensors, drones, in
 
 My work is to build that loop, and the three axes below are its three pieces.
 
-#### Axis 1 — Probabilistic Models of Deteriorating Structures
+#### Axis 1 — Uncertainty-Aware Digital Twins of Structures
 
-계측 정보를 담을 수 있는 확률적 정밀 구조 모델(열화·응답) 구축
+불확실성을 고려한 디지털 트윈 구축 기술 개발
 
 - **Question** — How much capacity has a corroded prestressed girder actually lost, and how uncertain is that answer?
-- **Approach** — Deterioration and response models in which material properties, deterioration rates and model-form error are random variables rather than fixed assumptions, so that a measurement has somewhere to go.
+- **Approach** — A digital twin whose deterioration and response models carry material properties, deterioration rates and model-form error as random variables rather than fixed assumptions, so that a measurement has somewhere to go.
 - **Output** — Posterior distributions of structural state; partial safety factors calibrated for aged structures and for new low-carbon materials entering design practice.
 
-#### Axis 2 — Surrogate Models That Know Their Own Error
+#### Axis 2 — Probabilistic AI Surrogates for Structural Analysis, Trained by Active Learning
 
-자기 오차를 아는 확률적 인공지능 대리모델
+능동학습 기반 확률적 인공지능 구조해석 대리모델 구축 기술 개발
 
 - **Question** — When may a neural surrogate replace a structural analysis, and when must it admit that it cannot and call one?
 - **Approach** — Physics priors combined with operator learning (e.g., FNO); predictive intervals that widen outside the training range instead of extrapolating confidently; active learning that spends additional structural analyses where the model is least certain.
 - **Output** — Fast response prediction with honest intervals, and virtual sensing at locations no instrument reaches.
 
-#### Axis 3 — Reliability-Based Life Prediction, Updated in Real Time
+#### Axis 3 — Reliability-Based Prediction, Updating and Verification of Structural Life
 
-신뢰성 기반 구조물 수명 예측·실시간 갱신 및 예측 검증
+신뢰성 기반의 구조물 수명 예측·갱신·검증 기술 개발
 
 - **Question** — Given everything measured so far, how much longer can this structure be used safely, and what should be measured next?
 - **Approach** — Safety lifetime defined as $$T = \min\{\,t : \beta(t) \le \beta_\mathrm{target}\,\}$$, updated by Bayesian inference as data arrives; value of information to decide which measurement is worth taking; verification of the forecasts against what is subsequently observed.
