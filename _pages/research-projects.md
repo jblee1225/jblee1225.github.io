@@ -4,10 +4,14 @@ permalink: /research-projects/
 title: research projects
 description: 연구책임자 수행 연구 과제
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
+<p class="section-note">각 과제는 <a href="/research-interest/">research vision</a>의 세 연구 축 중 해당하는 축으로 표시했습니다.</p>
+
 ##### Project 4 — Uncertainty-Aware Embedded AI for Autonomous Intelligent NDT Robots
+
+<a class="axis-tag" href="/research-interest/">Axis 2</a> <a class="axis-tag" href="/research-interest/">Axis 3</a>
 
 자율지능형 비파괴 검사 로봇 탑재용 불확실성 인식 임베디드 인공지능 개발
 
@@ -23,6 +27,8 @@ nav_order: 2
 
 ##### Project 3 — Digital Twin-Based Infrastructure Performance Estimation
 
+<a class="axis-tag" href="/research-interest/">Axis 1</a> <a class="axis-tag" href="/research-interest/">Axis 3</a>
+
 디지털 트윈 기반 시설물 성능 추정 기술 개발
 
 - **Funding:** KRISS — 기관고유사업
@@ -35,6 +41,8 @@ nav_order: 2
 
 ##### Project 2 — Virtual Sensor Systems for Infrastructure Using Deep Learning and Digital Twins
 
+<a class="axis-tag" href="/research-interest/">Axis 2</a>
+
 딥러닝 및 디지털트윈 기반 인프라구조물의 가상 센서 시스템 구축 기법 개발
 
 - **Funding:** KRISS — 뿌리내림사업
@@ -46,6 +54,8 @@ nav_order: 2
 ---
 
 ##### Project 1 — Lifespan Prediction of Infrastructure via Deep Reinforcement Learning-Based Digital Twin Updates
+
+<a class="axis-tag" href="/research-interest/">Axis 3</a>
 
 디지털 트윈의 심층강화학습 기반 자동 업데이트를 통한 인프라 구조물의 수명 예측 기법 개발
 

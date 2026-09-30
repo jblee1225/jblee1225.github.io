@@ -11,8 +11,9 @@ Built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com
 | Home / bio / awards | `_pages/about.md` |
 | Research projects | `_pages/research-projects.md` |
 | Publications (BibTeX) | `_bibliography/papers.bib` |
-| Research interest | `_pages/research-interest.md` |
-| Invited talks | `_pages/invited-talks.md` |
+| Research vision | `_pages/research-vision.md` |
+| Presentations (BibTeX) | `_bibliography/presentations.bib` |
+| Press | `_data/press.yml` |
 | News on homepage | `_news/*.md` |
 | Profile photo | `assets/img/prof_pic.jpg` |
 | Site settings | `_config.yml` |
