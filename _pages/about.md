@@ -47,7 +47,6 @@ latest_posts:
 
 - Commendation from the President of KRISS (2026.05) — meritorious service for metrology advancement <a class="evidence-link" href="/assets/awards/award-2026-05-kriss-president.jpg" target="_blank" rel="noopener">photo</a>
 - Excellent Paper Award, Computational Structural Engineering Symposium (2025.11) <a class="evidence-link" href="/assets/awards/award-2025-11-coseik.pdf" target="_blank" rel="noopener">certificate</a>
-- Best Poster Award, 4th UST-KRISS School Conference (2025.08) <a class="evidence-link" href="/assets/awards/award-2025-08-ust.pdf" target="_blank" rel="noopener">certificate</a>
 - Best Paper Winner, IABSE Young Engineers Colloquium (2024.01) <a class="evidence-link" href="/assets/awards/award-2024-01-iabse-yec.pdf" target="_blank" rel="noopener">certificate</a>
 - Excellent Paper Award, Korean Society of Civil Engineers (2021.10) <a class="evidence-link" href="/assets/awards/award-2021-10-ksce.jpg" target="_blank" rel="noopener">certificate</a>
 - Third Prize, 1st International Project Competition for Structural Health Monitoring (2021.01) <a class="evidence-link" href="/assets/awards/award-2021-01-ipcshm.jpg" target="_blank" rel="noopener">certificate</a>
@@ -61,6 +60,7 @@ latest_posts:
 #### Student Awards
 
 - HEKI SHIBATA Early Career Award, Honorable Mention, SMiRT-28 (2025.08) — awarded to co-advised student Jingoo Lee for a paper co-authored and supervised by Jaebeom Lee <a class="evidence-link" href="/assets/awards/award-2025-08-shibata.pdf" target="_blank" rel="noopener">certificate</a>
+- Best Poster Award (2nd place), 4th UST-KRISS School Conference (2025.08) — awarded to advised student Jaehyeon Kim for a poster supervised by Jaebeom Lee <a class="evidence-link" href="/assets/awards/award-2025-08-ust.pdf" target="_blank" rel="noopener">certificate</a>
 
 #### Academic Service
 
