@@ -8,11 +8,11 @@ nav_order: 2
 ---
 
 <div class="vision">
-  <p class="vision-ko">측정할수록 날카로워지고, 예상을 벗어나면 스스로 넓어지며, 지난 예측이 새 계측으로 채점되는 확률적 수명 예측.</p>
+  <p class="vision-ko">계측할수록 날카로워지고, 예상을 벗어나면 스스로 넓어지며, 지난 예측이 다음 계측으로 채점되는 확률적 수명 예측.</p>
   <p class="vision-en">A probabilistic life prediction that sharpens with every measurement, widens when reality surprises it, and is scored by the measurements that follow it.</p>
 </div>
 
-<img src="/assets/img/research/research-vision.png" alt="측정으로 갱신되는 구조물 수명 예측기: (1) 확률적 구조 모델, (2) 모델 오차를 아는 대리모델, (3) 신뢰성 기반 수명 예측과 갱신" style="display: block; margin: 1.5rem auto 2rem auto; max-width: 100%; height: auto;">
+<img src="/assets/img/research/research-vision.png" alt="계측으로 갱신되는 구조물 수명 예측기: (1) 확률적 구조 모델, (2) 모델 오차를 아는 대리모델, (3) 신뢰성 기반 수명 예측과 갱신" style="display: block; margin: 1.5rem auto 2rem auto; max-width: 100%; height: auto;">
 
 #### Why a Life Forecast, and Why Now
 
