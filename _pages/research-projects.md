@@ -11,7 +11,8 @@ nav_order: 3
 
 ##### Project 4 — Uncertainty-Aware Embedded AI for Autonomous Intelligent NDT Robots
 
-<a class="axis-tag" href="/research-interest/">Axis 2</a> <a class="axis-tag" href="/research-interest/">Axis 3</a>
+<a class="axis-tag" href="/research-interest/">Axis 2</a> <a class="axis-tag" href="/research-interest/">Axis 4</a>
+
 
 자율지능형 비파괴 검사 로봇 탑재용 불확실성 인식 임베디드 인공지능 개발
 
@@ -29,6 +30,7 @@ nav_order: 3
 
 <a class="axis-tag" href="/research-interest/">Axis 1</a> <a class="axis-tag" href="/research-interest/">Axis 3</a>
 
+
 디지털 트윈 기반 시설물 성능 추정 기술 개발
 
 - **Funding:** KRISS — 기관고유사업
@@ -43,6 +45,7 @@ nav_order: 3
 
 <a class="axis-tag" href="/research-interest/">Axis 2</a>
 
+
 딥러닝 및 디지털트윈 기반 인프라구조물의 가상 센서 시스템 구축 기법 개발
 
 - **Funding:** KRISS — 뿌리내림사업
@@ -55,7 +58,8 @@ nav_order: 3
 
 ##### Project 1 — Lifespan Prediction of Infrastructure via Deep Reinforcement Learning-Based Digital Twin Updates
 
-<a class="axis-tag" href="/research-interest/">Axis 3</a>
+<a class="axis-tag" href="/research-interest/">Axis 3</a> <a class="axis-tag" href="/research-interest/">Axis 4</a>
+
 
 디지털 트윈의 심층강화학습 기반 자동 업데이트를 통한 인프라 구조물의 수명 예측 기법 개발
 
