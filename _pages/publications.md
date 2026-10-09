@@ -25,6 +25,12 @@ nav_order: 4
 
 <div style="margin-top: 4rem"></div>
 
+## Articles
+
+- **LEE, J.\*** (2023). ChatGPT와 심층강화학습으로부터 시작된 '창의적'이라는 단어에 대한 사소한 고찰. _소음·진동_ (Journal of KSNVE), 33(3), 40–42. \[자유기고\]
+
+<div style="margin-top: 4rem"></div>
+
 ## Patents & Software
 
 - CHOI, W., JI, B., PARK, J., SEUNG, H., HA, J., & **LEE, J.** (2023). 디스플레이 패널 고속 검사 방법 (High-Speed Inspection Method for Display Panels). Patent 10-2023-0151049; PCT WO 2025/095654 A1.

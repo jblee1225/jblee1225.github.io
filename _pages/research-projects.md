@@ -9,7 +9,7 @@ nav_order: 3
 
 <p class="section-note">연구책임자로 수행한 과제에는 <a href="/research-interest/">research vision</a>의 네 연구 축 중 해당하는 축을 표시했습니다.</p>
 
-#### Principal Investigator
+#### Principal Investigator (연구책임자)
 
 ##### Uncertainty-Aware Embedded AI for Autonomous Intelligent NDT Robots
 
@@ -79,60 +79,44 @@ CuCMP공정 금속두께 측정용 인라인 Xray 장비기술개발
 
 <img src="/assets/img/projects/project-2021.png" alt="Deep reinforcement learning-based digital twin update" style="display: block; margin: 1rem auto 2rem auto; max-width: 100%; height: auto;">
 
-#### Co-Investigator
+#### Participating Researcher (참여연구원)
 
-##### Multimodal Nondestructive Evaluation of Next-Generation Nuclear Components Using Intelligent Agents
+##### 지능형 에이전트 기반 차세대 원자력 핵심기기 다중 모달 비파괴평가 시스템 개발
 
-지능형 에이전트 기반 차세대 원자력 핵심기기 다중 모달 비파괴평가 시스템 개발
-
-- **Lead organization:** Korea Atomic Energy Research Institute (KAERI)
+- **주관기관:** 한국원자력연구원 (KAERI)
 - **Duration:** 2026.04–2030.12
 
-##### Metastructure-Based Ultra-Sensitive Underwater Acoustic Sensors for Airborne Anti-Submarine Detection
+##### 대잠용 항공전력 탐지를 위한 메타구조기반 초고감도 수중음향센서기술개발
 
-대잠용 항공전력 탐지를 위한 메타구조기반 초고감도 수중음향센서기술개발
-
-- **Lead organization:** Korea Research Institute of Standards and Science (KRISS)
+- **주관기관:** 한국표준과학연구원 (KRISS)
 - **Duration:** 2024.07–2026.12
 
-##### Development and Dissemination of National Standard Reference Data
+##### 국가참조표준데이터 개발 및 보급
 
-국가참조표준데이터 개발 및 보급
-
-- **Lead organization:** Korea Research Institute of Standards and Science (KRISS)
+- **주관기관:** 한국표준과학연구원 (KRISS)
 - **Duration:** 2024.04–2026.12
 
-##### Data-Science-Based Infrastructure for Nondestructive Testing
+##### 데이터과학기반 비파괴검사 인프라구축기술개발
 
-데이터과학기반 비파괴검사 인프라구축기술개발
-
-- **Lead organization:** Korea Research Institute of Standards and Science (KRISS)
+- **주관기관:** 한국표준과학연구원 (KRISS)
 - **Duration:** 2021.06–2025.12
 
-##### Enhanced-Safety Core Technology for APR Nuclear Power Plants
+##### APR 원전 안전 강화 노심 기술개발
 
-APR 원전 안전 강화 노심 기술개발
-
-- **Lead organization:** KEPCO Nuclear Fuel (한전원자력연료)
+- **주관기관:** 한전원자력연료(주) (KEPCO NF)
 - **Duration:** 2021.05–2028.12
 
-##### Integrated Risk Management Package for Plants Based on Facility Safety
+##### 시설물 안전 기반 플랜트 통합위험관리 패키지 기술개발
 
-시설물 안전 기반 플랜트 통합위험관리 패키지 기술개발
-
-- **Lead organization:** Korea Institute of Civil Engineering and Building Technology (KICT)
+- **주관기관:** 한국건설기술연구원 (KICT)
 - **Duration:** 2021.04–2021.12
 
-##### Vehicle Assessment System Based on Statistical Analysis of Traffic Data
+##### 통계분석기법을 통한 통행차량 평가체계 개발
 
-통계분석기법을 통한 통행차량 평가체계 개발
-
-- **Lead organization:** Gachon University Industry-Academic Cooperation Foundation
+- **주관기관:** 가천대학교산학협력단
 - **Duration:** 2019.04–2020.12
 
-##### Decision Support for Seismic Performance Management of Aged Road Facilities through Seismic Resilience Assessment of Road Networks
+##### 도로망의 지진복원력 평가를 통한 노후 도로시설의 내진성능관리 의사결정지원 기술 개발 및 시범적용
 
-도로망의 지진복원력 평가를 통한 노후 도로시설의 내진성능관리 의사결정지원 기술 개발 및 시범적용
-
-- **Lead organization:** Korea Authority of Land & Infrastructure Safety (KALIS)
+- **주관기관:** 국토안전관리원 (KALIS)
 - **Duration:** 2018.04–2021.03
