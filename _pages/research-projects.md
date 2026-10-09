@@ -11,11 +11,9 @@ nav_order: 3
 
 #### Principal Investigator (연구책임자)
 
-##### Uncertainty-Aware Embedded AI for Autonomous Intelligent NDT Robots
+##### 자율지능형 비파괴 검사 로봇 탑재용 불확실성 인식 임베디드 인공지능 개발
 
 <a class="axis-tag" href="/research-interest/">Axis 2</a> <a class="axis-tag" href="/research-interest/">Axis 4</a>
-
-자율지능형 비파괴 검사 로봇 탑재용 불확실성 인식 임베디드 인공지능 개발
 
 - **Funding:** National Research Foundation of Korea (NRF) — 신진연구 (유형 B)
 - **Budget:** 660.8 million KRW (정부출연금 기준)
@@ -28,11 +26,9 @@ nav_order: 3
 
 ---
 
-##### Digital Twin-Based Infrastructure Performance Estimation
+##### 디지털 트윈 기반 시설물 성능 추정 기술 개발
 
 <a class="axis-tag" href="/research-interest/">Axis 1</a> <a class="axis-tag" href="/research-interest/">Axis 3</a>
-
-디지털 트윈 기반 시설물 성능 추정 기술 개발
 
 - **Funding:** KRISS — 기관고유사업 (소과제책임자)
 - **Budget:** 2,975 million KRW of an 11,550 million KRW programme (직접비 기준)
@@ -42,9 +38,7 @@ nav_order: 3
 
 ---
 
-##### In-Line X-ray Instrument for Metal Thickness Measurement in the CuCMP Process
-
-CuCMP공정 금속두께 측정용 인라인 Xray 장비기술개발
+##### CuCMP공정 금속두께 측정용 인라인 Xray 장비기술개발
 
 - **Funding:** 공동연구개발기관 (KRISS) — 주관연구개발기관: (주)아이에스피
 - **Budget:** 1,086 million KRW in total (정부출연금 기준)
@@ -52,11 +46,9 @@ CuCMP공정 금속두께 측정용 인라인 Xray 장비기술개발
 
 ---
 
-##### Virtual Sensor Systems for Infrastructure Using Deep Learning and Digital Twins
+##### 딥러닝 및 디지털트윈 기반 인프라구조물의 가상 센서 시스템 구축 기법 개발
 
 <a class="axis-tag" href="/research-interest/">Axis 2</a>
-
-딥러닝 및 디지털트윈 기반 인프라구조물의 가상 센서 시스템 구축 기법 개발
 
 - **Funding:** KRISS — 뿌리내림사업
 - **Budget:** 100 million KRW (직접비 기준)
@@ -66,11 +58,9 @@ CuCMP공정 금속두께 측정용 인라인 Xray 장비기술개발
 
 ---
 
-##### Lifespan Prediction of Infrastructure via Deep Reinforcement Learning-Based Digital Twin Updates
+##### 디지털 트윈의 심층강화학습 기반 자동 업데이트를 통한 인프라 구조물의 수명 예측 기법 개발
 
 <a class="axis-tag" href="/research-interest/">Axis 3</a> <a class="axis-tag" href="/research-interest/">Axis 4</a>
-
-디지털 트윈의 심층강화학습 기반 자동 업데이트를 통한 인프라 구조물의 수명 예측 기법 개발
 
 - **Funding:** National Research Foundation of Korea (NRF) — 세종과학펠로우십
 - **Budget:** 554.7 million KRW (정부출연금 기준)
